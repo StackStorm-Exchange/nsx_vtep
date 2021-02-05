@@ -23,7 +23,7 @@ Created by GS Lab, the StackStorm Integration Pack for the Brocade VCS Gateway f
   * RHEL 7 / CentOS 7
   * RHEL 6 / CentOS 6
 * StackStorm v2.2
-* Python 2.7
+* Python 3.6
 * git
 
 ***Installation Steps***
