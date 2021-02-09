@@ -13,7 +13,7 @@
 # under the License.
 
 import logging
-from nsxramlclient.client import NsxClient
+from nsxramlclient.client import NsxClient  # pylint: disable=import-error,no-name-in-module
 
 
 class NSX():
