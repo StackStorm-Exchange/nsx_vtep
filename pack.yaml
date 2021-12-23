@@ -2,8 +2,9 @@
 ref: nsx_vtep
 name: nsx_vtep
 description: NSX automation pack.
-version: 1.0.0
+version: 1.0.1
 author: GSLAB
 email: yugendra.khonde@gslab.com
 python_versions:
-  - "3"
+  # requirement nsxramlclient is unmaintained and py2 only
+  - "2"
